@@ -37,7 +37,7 @@ To run this Laravel project using Docker, follow these steps:
 
 You can use the provided Postman collection to test the API routes. Import the `REST API basics- CRUD, test & variable.postman_collection.json` file into Postman to get started quickly.
 
-OR You can test the API routes using Postman. Below are the available routes and their descriptions:
+OR You can test the API routes using Postman with the Below available routes and their descriptions:
 
 ### Authentication Routes
 
